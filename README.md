@@ -1,1 +1,2 @@
-# E-Commerce Platform - Local Development Sandbox Version
+# E-Commerce Platform - Unified Team Production & Development Version
+
